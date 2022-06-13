@@ -1,0 +1,6 @@
+Host service1-staging-web-01
+  HostName xxx.xxx.xxx.xxx
+  User hoo
+  Port 22
+  IdentityFile ~/.ssh/bar.key
+  IdentitiesOnly yes
